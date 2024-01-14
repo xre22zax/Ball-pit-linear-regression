@@ -1,4 +1,4 @@
-** Bouncy Ball Bonanza: A Linear Regression Adventure in Python**
+# Bouncy Ball Bonanza: A Linear Regression Adventure in Python
 
 Our Story:
 
@@ -6,7 +6,7 @@ Reggie, the resident mad scientist at a local fast food joint, wants to build th
 
 ---
 
-** The Mission:**
+## The Mission:
 
 Error Detectives: Calculate the distance between a point and a line (hint: think triangles!), then measure the total error for a line by summing up its distances from all data points.
 Slope & Intercept Safari: Explore a jungle of different slopes and intercepts (m and b values) to find the one that minimizes the total error, uncovering the line of best fit!
@@ -14,7 +14,7 @@ Prediction Playground: Armed with the best-fit line, predict the bounce height o
 
 ---
 
-** Tools of the Trade:**
+## Tools of the Trade:
 
 Python
 Lists & Loops
@@ -23,24 +23,24 @@ Arithmetic & Functions
 
 ---
 
-** Get Started in 3 Bounces:**
+### Get Started in 3 Bounces:
 
-Clone this repo: git clone https://github.com/your_username/bouncy_ball_regression
+Clone this repo: git clone [Bouncy_ball linear_regression](https://github.com/xre22zax/Ball-pit-linear-regression.git)
 Install libraries (optional): pip install matplotlib
-Run the Jupyter notebook: jupyter notebook bouncy_ball_fun.ipynb
+Run the Jupyter notebook: jupyter notebook 'Reggie_Linear_Regression_Skeleton.ipynb'
 
 ---
 
-** Follow our journey through the code, experiment with different data, and let's bounce to new heights of scientific understanding!**
+#### Follow our journey through the code, experiment with different data, and let's bounce to new heights of scientific understanding!
 
 ---
 
-** Contributing:**
+### Contributing:
 
 See a bug? Have a cool extension idea? We welcome contributions! Pull requests and issues are always appreciated.
 
 ---
 
-**‍ Author **
+### Author:
 
 Reza Sadeghi: [https://github.com/xre22zax/](https://github.com/xre22zax/)
